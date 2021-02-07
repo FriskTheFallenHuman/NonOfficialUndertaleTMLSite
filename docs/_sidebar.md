@@ -5,6 +5,8 @@
 	* [Battle](/tutorial/battle/home)
 		* [Dummy](/tutorial/battle/0_dummy)
 * [Functions](/function/home)
+	* [Encounter](/tutorial/overworld/home)
+	* [Battle](/tutorial/battle/home)
 * [Objects](/object/home)
 * [Macros](/macro/home)
 * [Misc](/misc/home)
