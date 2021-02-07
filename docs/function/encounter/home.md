@@ -1,0 +1,16 @@
+# Function > Encounters
+
+* [`Encounter_Init`](/function/Encounter_Init)
+* [`Encounter_Uninit`](/function/Encounter_Uninit)
+* [`Encounter_Custom`](/function/Encounter_Custom)
+* [`Encounter_Set`](/function/Encounter_Set)
+* [`Encounter_Start`](/function/Encounter_Start)
+* [`Encounter_GetEnemy`](/function/Encounter_GetEnemy)
+* [`Encounter_GetMenuDialog`](/function/Encounter_GetMenuDialog)
+* [`Encounter_GetBGM`](/function/Encounter_GetBGM)
+* [`Encounter_IsPauseBGM`](/function/Encounter_IsPauseBGM)
+* [`Encounter_IsMenuMercyFleeEnabled`](/function/Encounter_IsMenuMercyFleeEnabled)
+* [`Encounter_IsExists`](/function/Battle_SetState)
+* [`Encounter_IsQuick`](/function/Encounter_IsQuick)
+* [`Encounter_GetSoulX`](/function/Encounter_GetSoulX)
+* [`Encounter_GetSoulY`](/function/Encounter_GetSoulY)
