@@ -4,7 +4,7 @@
 ## Get the engine
 UNDERTALE Engine is updated weekly. If you want to get the updates while keeping your changes in the engine, follow the following steps:
 
-Go to the [repository page](https://github.com/TML233/undertale_engine), click **Fork** to fork the repository to your own Github Account.
+Go to the [repository page](https://github.com/TML233/undertale_engine_legacy), click **Fork** to fork the repository to your own Github Account.
 
 Get **Github Desktop** [here](https://desktop.github.com/), and install it.
 Launch it and clone the repository which you forked just now to your own machine.
