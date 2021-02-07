@@ -1,6 +1,7 @@
 * [Get Started](/get_started)
 * [Tutorials](/tutorial/home)
 	* [Overworld](/tutorial/overworld/home)
+		* [Making a Room](/tutorial/overworld/0_area_0)
 	* [Battle](/tutorial/battle/home)
 		* [Dummy](/tutorial/battle/0_dummy)
 * [Functions](/function/home)
